@@ -1,2 +1,3 @@
 # Programming-Language-Course-Work
-Coursework for my programming lanuage course.
+This is a repository made for my coursework of Programming Language.
+I will upload my assignments and other stuff here.
